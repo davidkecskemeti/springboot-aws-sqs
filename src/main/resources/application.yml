@@ -3,9 +3,6 @@ cloud:
     region:
       auto: false
       static: eu-west-2
-    credentials:
-      access-key: AKIA6LEEEXD7AKCHD74Y
-      secret-key: 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
     stack:
       auto: false
 
